@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajimpa
+- 👋 Hi, I’m SoftwareGuru
 - 👀 I’m interested in HTML/CSS/JS/Java/PHP/C/C++/Python/Lua/Dart
 - 🌱 I’m currently learning Lua, C#
 - 💞️ I’m looking to collaborate on React/React-native/Flutter projects
