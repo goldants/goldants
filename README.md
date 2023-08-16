@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SoftwareGuru
 - 👀 I’m interested in HTML/CSS/JS/Java/PHP/C/C++/Python/Lua/Dart
-- 🌱 I’m currently learning Lua, C#
+- 🌱 I’m currently learning ChatGPT, Go
 - 💞️ I’m looking to collaborate on React/React-native/Flutter projects
 - 📫 How to reach me : by email ajimpa2010@gmail.com
 
