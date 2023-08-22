@@ -8,7 +8,7 @@
 - :speech_balloon: Ask me about:- Anything ( not my personal life , duhh !! )
 - :mailbox: How to reach me:  :heavy_check_mark:[Email](mailto:sebastian.reid.514@gmail.com)
 - :zap: Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
-
+ 
 
 <!-- ## Here is the link of my personal portfolio: [Pranav Dalvi](https://pranavdalvi.herokuapp.com/) -->
 <!-- Pranav Dalvi - [My Linkedin](https://www.linkedin.com/in/pranavsanjaydalvi/) -->
