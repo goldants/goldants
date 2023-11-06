@@ -1,4 +1,4 @@
-### Greetings! :pray:, I am Sebastian Reid [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
+### Greetings! :pray:, I am Tech Ninja 🐱‍👤 [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
@@ -6,7 +6,6 @@
 - :telescope: I’m currently working on :- Mobile Application Development 
 - 🤔 I’m looking for help with :- Scalable Systems design
 - :speech_balloon: Ask me about:- Anything ( not my personal life , duhh !! )
-- :mailbox: How to reach me:<br>[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastian.reid.514@gmail.com) [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebar514)
 - :zap: Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
  
 
@@ -49,5 +48,5 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=start514&show_icons=true" />
   <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=start514" alt="shantanu-bombatkar-language" >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=start514&" alt="Sebastian" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=start514&" alt="Tech Ninja" />
 <!--  <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=start514&" alt="Sebastian" /></div><br/> -->
