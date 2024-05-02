@@ -1,12 +1,12 @@
-### Greetings! :pray:, I am Tech Ninja 🐱‍👤 [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
+### Greetings! :pray:, Welcome to my github profile 🐱‍👤 [ ](https://i.pinimg.com/originals/bb/82/21/bb82217d6c6a89cad939f8c8567f6171.gif)!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-### 𝓘 𝓪𝓶 𝓪  Software Developer who specializes in Mobile Development, Web Development, MERN Stack, API designing 𝓪𝓷𝓭 Crpyto :heart:
-- :telescope: I’m currently working on :- Mobile Application Development 
-- 🤔 I’m looking for help with :- Scalable Systems design
+### 𝓘 𝓪𝓶 𝓪  Software Developer who specializes in Web Development, AI/ML, Computer Vision 𝓪𝓷𝓭 Crpyto :heart:
+- :telescope: I’m currently working on :- Generative AI and Deep Learning Projects
+- 🤔 I’m looking for help with :- DevOps Engineering
 - :speech_balloon: Ask me about:- Anything ( not my personal life , duhh !! )
-- :zap: Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
+- :zap: I consider customer satisfaction my top priority and it is only achieved by top skill.
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
