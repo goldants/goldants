@@ -4,7 +4,7 @@
 
 ### 𝓘 𝓪𝓶 𝓪  Software Developer who specializes in Web Development, AI/ML, Computer Vision 𝓪𝓷𝓭 Crpyto :heart:
 - :telescope: I’m currently working on :- Generative AI and Deep Learning Projects
-- 🤔 I’m looking for help with :- DevOps Engineering
+- 🤔 I’m looking for help with :- Social Marketing & Stock Trading
 - :speech_balloon: Ask me about:- Anything ( not my personal life , duhh !! )
 - :zap: I consider customer satisfaction my top priority and it is only achieved by top skill.
  
